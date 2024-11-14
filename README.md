@@ -25,8 +25,8 @@ Hi there! I'm **Asim**,
 
 <details>
 <summary>Competitive Programming ?</summary>
-  [Leetcode](https://leetcode.com/u/asimbaidya/)
-  [Codeforces](https://codeforces.com/profile/asimbaidya)
+  - [Leetcode](https://leetcode.com/u/asimbaidya/)
+  - [Codeforces](https://codeforces.com/profile/asimbaidya)
 </details>
 
 
